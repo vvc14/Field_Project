@@ -1,12 +1,31 @@
 # Field Project
-## Topics
-1.**Identification of Problem Statement|------->feasibilty or scope of problem statemment**<br>
-                                       |------->**Real Time or Soceital Impact**<br>
-2.**Submission of Abstract-------------|--------------->Title of Project<br>
-                                       |--------------->Existing System<br>
-                                       |--------------->Proposal System**<br>
-3.**Literature Survey**|---------->*Tech Requirements*<br>
-                   |---------->**5 Reference Papers**<br>
-                   |----------->**From this survey we get to know what kind of tech requirements are needed**<br>
-                      
-                                   
+## Procedure
+1.**Identification of Problem Statement**<br>
+->*feasibilty or scope of problem statemment*<br>
+->*Real Time or Soceital Impact*<br>
+________________________________________________________________________________________________________________________________
+2.**Submission of Abstract**<br>
+->*Title of Project*<br>
+->*Existing System*<br>
+->*Proposal System*<br>
+________________________________________________________________________________________________________________________________
+3.**Literature Survey**
+->*Tech Requirements*<br>
+->*5 Reference Papers*<br>
+->*From this survey we get to know what kind of tech requirements are needed*<br>   
+________________________________________________________________________________________________________________________________
+4.**Design Diagrams**
+->*ER-Diagram*
+->*UML-Diagram*
+________________________________________________________________________________________________________________________________
+5.**Review i.e PPT**
+________________________________________________________________________________________________________________________________
+6.**Implementation**
+________________________________________________________________________________________________________________________________
+7.**Testing**
+________________________________________________________________________________________________________________________________
+8.**Documentation Final**
+________________________________________________________________________________________________________________________________
+9.**Final Review**
+________________________________________________________________________________________________________________________________
+
