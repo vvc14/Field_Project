@@ -1,33 +1,55 @@
-# Field Project
-## Procedure
-Project Selected:<strong>ADVANCEMENTS IN AI RESUME BUILDER</strong><br>
-<hr>
-1.**Identification of Problem Statement**<br>
-->*feasibilty or scope of problem statemment*<br>
-->*Real Time or Soceital Impact*<br>
-________________________________________________________________________________________________________________________________
-2.**Submission of Abstract**<br>
-->*Title of Project*<br>
-->*Existing System*<br>
-->*Proposal System*<br>
-________________________________________________________________________________________________________________________________
-3.**Literature Survey**
-->*Tech Requirements*<br>
-->*5 Reference Papers*<br>
-->*From this survey we get to know what kind of tech requirements are needed*<br>   
-________________________________________________________________________________________________________________________________
-4.**Design Diagrams**<br>
-->*ER-Diagram*<br>
-->*UML-Diagram*<br>
-________________________________________________________________________________________________________________________________
-5.**Review i.e PPT**
-________________________________________________________________________________________________________________________________
-6.**Implementation**
-________________________________________________________________________________________________________________________________
-7.**Testing**
-________________________________________________________________________________________________________________________________
-8.**Documentation Final**
-________________________________________________________________________________________________________________________________
-9.**Final Review**
-________________________________________________________________________________________________________________________________
+Here’s a more visually appealing version of your markdown document:
 
+---
+
+# **Field Project: Advancements in AI Resume Builder**
+
+---
+
+## **1. Identification of Problem Statement**
+- **Feasibility or Scope of Problem Statement**
+- **Real-Time or Societal Impact**
+
+---
+
+## **2. Submission of Abstract**
+- **Title of Project**: Advancements in AI Resume Builder
+- **Existing System**
+- **Proposed System**
+
+---
+
+## **3. Literature Survey**
+- **Technical Requirements**
+- **5 Reference Papers**
+- *Insights on necessary technology requirements gathered from this survey*
+
+---
+
+## **4. Design Diagrams**
+- **ER Diagram**
+- **UML Diagram**
+
+---
+
+## **5. Review (PPT Presentation)**
+
+---
+
+## **6. Implementation**
+
+---
+
+## **7. Testing**
+
+---
+
+## **8. Final Documentation**
+
+---
+
+## **9. Final Review**
+
+---
+
+Let me know if you need any further modifications!
